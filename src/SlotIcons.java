@@ -1,13 +1,17 @@
 public enum SlotIcons {
     APPLE,
-    BAR,
-    BONUS,
     CHERRY,
-    CROWN,
     LEMON,
+    WATERMELON,
+
+    CROWN,
+    BAR,
+
     SEVEN,
     THREE7,
-    WATERMELON,
+
+    BONUS,
+
     WILD
 
 }
